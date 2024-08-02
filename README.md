@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Webwork 102*
 
-Submitted by: **Your Name Here**
+Submitted by: **Axin Li**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Webwork 102** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -35,10 +35,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+This was my first exposure to web development so I had to learn the syntax of HTML and CSS. In the beginning it was difficult to understand how the base website was made to look the way it is. So, I decided to work on a portfolio project on my own, to get a better understanding of the basics of web dev. As I worked through to project, I understood more about containers, objects, and how to style the website to be more intuitive for others. I was already familiar with javascript, so changing the script, functions, and loops were much easier. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Axin Li]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
